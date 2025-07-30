@@ -1,0 +1,11 @@
+id,titre,description,service,date
+1,Panne,Moteur bloqué,Production,2023-03-10
+2,Incident réseau,Coupure internet,Informatique,2022-06-15
+3,Fuite,Fuite d’eau,Maintenance,2023-01-25
+4,Panne,Arrêt machine,Production,2022-11-20
+5,Bug logiciel,Erreur système,Informatique,2023-07-04
+6,Panne,Panne électrique,Maintenance,2021-12-12
+7,Surcharge,Surcharge machine,Production,2022-04-30
+8,Crash,Bug logiciel,Informatique,2021-05-14
+9,Panne,Panne pompe,Maintenance,2023-09-18
+10,Panne,Machine arrêtée,Production,2022-02-22
