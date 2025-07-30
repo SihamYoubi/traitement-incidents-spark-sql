@@ -11,7 +11,7 @@ Il permet de traiter un fichier CSV contenant des incidents par service, en util
 <img src="screenshots/nbr-incidents-service.JPG" />
 
 ### 2. Afficher les deux années où il y a eu le plus d'incidents
-<img src="screenshots/annees-pls-incidents.JPG" />
+<img src="screenshots/annees-plus-incidents.JPG" />
 
 ---
 
